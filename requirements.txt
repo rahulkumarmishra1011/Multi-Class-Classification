@@ -1,0 +1,8 @@
+zipfile36
+pathlib
+tensorflow
+numpy
+pandas
+matplotlib
+gradio
+random2
